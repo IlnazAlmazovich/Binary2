@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\bin\Debug\BinaryArray.exe.config
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\bin\Debug\BinaryArray.exe
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\bin\Debug\BinaryArray.pdb
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\obj\Debug\BinaryArray.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\obj\Debug\BinaryArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\obj\Debug\BinaryArray.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\obj\Debug\BinaryArray.exe
+C:\Users\Пользователь\Desktop\Binary\BinaryArray\obj\Debug\BinaryArray.pdb
